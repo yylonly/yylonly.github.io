@@ -41,11 +41,11 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. Automated Prototype Generation from Formal Requirements Model. *PrePrint*.
 
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. Integrating UML with Service Refinement for Requirements Modeling and Analysis. *PrePrint*.
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/323770893_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis). *PrePrint*.
 
-**Yilong Yang**, Xiaoshan Li, Quan Zu. Real-time System Modeling and Verification through Labeled Transition System Analyser (LTSA). *PrePrint*.
+**Yilong Yang**, Xiaoshan Li, Quan Zu. [Real-time System Modeling and Verification through Labeled Transition System Analyser (LTSA)](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA). *PrePrint*.
 
-**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. An Integrated Framework for Semantic Service Composition using Answer Set Programming. Int. J. Web Service Res. 11(4): 47-61 (2014).
+**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. [An Integrated Framework for Semantic Service Composition using Answer Set Programming](https://www.researchgate.net/publication/273772848_An_integrated_framework_for_semantic_service_composition_using_answer_set_programming). Int. J. Web Service Res. 11(4): 47-61 (2014).
 
 Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and Consistency Verification on Requirement Model. ATISR 2012.
 
@@ -53,9 +53,9 @@ Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and
 
 ### HealthCare
 
-**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Wei Ke, Zhiming Liu. MedShare: Medical Resource Sharing among Autonomous Healthcare Providers. *Preprint*.
+**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Wei Ke, Zhiming Liu. [MedShare: Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/323770968_MedShare_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). *Preprint*.
 
-**Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture. Int J Biol Sci 2018; 14(8):907-919. (**Q1** - JCR 2018)
+**Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://www.researchgate.net/publication/325518439_MicroShare_Privacy-Preserved_Medical_Resource_Sharing_through_MicroService_Architecture). Int J Biol Sci 2018; 14(8):907-919. (**Q1** - JCR 2018)
 
 Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu. Querying Medical Datasets While Preserving Privacy. EUSPN/ICTH 2016: 324-331.
 
@@ -63,13 +63,13 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. 
 
 ### Machine Learning
 
-**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. ServeNet: A Deep Neural Network for Web Service Classification. *PrePrint*.
+**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). *PrePrint*.
 
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. Deep Learning for Pharmaceutical Formulation Prediction. *PrePrint*.
 
 Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction. *PrePrint*.
 
-Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. Predicting oral disintegrating tablet formulations by neural network techniques. Asian Journal of Pharmaceutical Sciences (2018). (**Co-First and Q1** - JCR 2018)
+Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://www.researchgate.net/publication/322902289_Predicting_Oral_Disintegrating_Tablet_Formulations_by_Neural_Network_Techniques). Asian Journal of Pharmaceutical Sciences (2018). (**Co-First and Q1** - JCR 2018)
 
 Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image classification based on multilayer extreme learning machine. Multidimensional Systems and Signal Processing 28, no. 3 (2017): 851-865. (**Q2** - JCR 2018)
 
