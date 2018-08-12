@@ -53,7 +53,7 @@ Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and
 
 ### HealthCare
 
-**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Wei Ke, Zhiming Liu. [MedShare: Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/323770968_MedShare_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). *Preprint*.
+**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. [MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/323770968_MedShare_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). IEEE Access .(Accepted) (**Q1** - JCR 2018).
 
 **Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://www.researchgate.net/publication/325518439_MicroShare_Privacy-Preserved_Medical_Resource_Sharing_through_MicroService_Architecture). Int J Biol Sci 2018; 14(8):907-919. (**Q1** - JCR 2018)
 
