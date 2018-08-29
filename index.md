@@ -51,7 +51,7 @@ Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and
 
 **Yilong Yang**, Weiru Wang, Yang Jing. Survey of Web Service Composition based on Genetic Algorithm. Computer and Digital Engineering. 2012(07).
 
-### Software Engineering for Health Informatics
+### Health Informatics
 
 **Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. [MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/327027574_MedShare_A_Novel_Hybrid_Cloud_for_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). IEEE Access . (**Q1** - JCR 2018).
 
