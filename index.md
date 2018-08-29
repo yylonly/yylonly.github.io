@@ -51,9 +51,9 @@ Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and
 
 **Yilong Yang**, Weiru Wang, Yang Jing. Survey of Web Service Composition based on Genetic Algorithm. Computer and Digital Engineering. 2012(07).
 
-### HealthCare
+### Software Engineering for Health Informatics
 
-**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. [MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/323770968_MedShare_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). IEEE Access . (**Q1** - JCR 2018).
+**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. [MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/327027574_MedShare_A_Novel_Hybrid_Cloud_for_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). IEEE Access . (**Q1** - JCR 2018).
 
 **Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://www.researchgate.net/publication/325518439_MicroShare_Privacy-Preserved_Medical_Resource_Sharing_through_MicroService_Architecture). Int J Biol Sci 2018; 14(8):907-919. (**Q1** - JCR 2018)
 
@@ -189,9 +189,10 @@ To be Announced.
 ## Links
 
 <!-- fa are fontawesome, ai are academicons -->
+
 * <i class="ai ai-dblp"></i> <a href="https://dblp.uni-trier.de/pers/hd/y/Yang_0001:Yilong">DBLP</a>
 * <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Yilong_Yang2">ResearchGate</a>
+* <i class="ai orcid"></i> <a href="https://orcid.org/0000-0002-0099-344X">ORCID</a>
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=i-kYDpAAAAAJ&hl=en">Google scholar</a>
 * <i class="fa fa-github"></i> <a href="http://github.com/yylonly">GitHub</a>
 * <i class="fa fa-user"></i> <a href="http://lab.mydreamy.net">UM Software Engineering Lab</a>
-* <i class="fa fa-book"></i> <a href="http://daas.mydreamy.net">MCloud Knowlegement Center</a>
