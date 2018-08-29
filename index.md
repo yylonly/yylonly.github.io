@@ -192,7 +192,7 @@ To be Announced.
 
 * <i class="ai ai-dblp"></i> <a href="https://dblp.uni-trier.de/pers/hd/y/Yang_0001:Yilong">DBLP</a>
 * <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Yilong_Yang2">ResearchGate</a>
-* <i class="ai orcid"></i> <a href="https://orcid.org/0000-0002-0099-344X">ORCID</a>
+* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-0099-344X">ORCID</a>
 * <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=i-kYDpAAAAAJ&hl=en">Google scholar</a>
 * <i class="fa fa-github"></i> <a href="http://github.com/yylonly">GitHub</a>
 * <i class="fa fa-user"></i> <a href="http://lab.mydreamy.net">UM Software Engineering Lab</a>
