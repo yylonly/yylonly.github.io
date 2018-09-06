@@ -39,7 +39,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ### Software Engineering
 
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. Automated Prototype Generation from Formal Requirements Model. *PrePrint*.
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model). *PrePrint*.
 
 **Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/323770893_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis). *PrePrint*.
 
@@ -65,9 +65,9 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. 
 
 **Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). *PrePrint*.
 
-**Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. Deep Learning for Pharmaceutical Formulation Prediction. *PrePrint*.
-
 Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction. *PrePrint*.
+
+**Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. Deep Learning for in-vitro Prediction of Pharmaceutical Formulations. Acta Pharmaceutica Sinica B (2018). (**Q1** - JCR 2018)
 
 Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://www.researchgate.net/publication/322902289_Predicting_Oral_Disintegrating_Tablet_Formulations_by_Neural_Network_Techniques). Asian Journal of Pharmaceutical Sciences (2018). (**Co-First and Q1** - JCR 2018)
 
