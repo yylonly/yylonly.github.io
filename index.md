@@ -21,11 +21,11 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Education
 
-`2013 -` **University of Macau**, PhD Candidate in Software Engineering.
+`2018` **University of Macau**, PhD Candidate in Software Engineering.
 
-`2010 - 2013` **Guizhou University**, MSc in Computer Sciences.
+`2013` **Guizhou University**, MSc in Computer Sciences.
 
-`2006 - 2010` **China University of Mining and Technology**, BS in Computer Sciences.
+`2010` **China University of Mining and Technology**, BS in Computer Sciences.
 
 
 ## Employment
