@@ -17,7 +17,7 @@ PhD Candidate of Software Engineering
 
 ## Currently
 
-I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests are intelligent software engineering.  
+I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests includes automated and intelligent software engineering.  
 
 ## Education
 
