@@ -41,7 +41,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Publications
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>*Software Engineering:*
+<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model). *PrePrint*.
 
@@ -57,7 +57,7 @@ Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and
 
 **Yilong Yang**, Weiru Wang, Yang Jing. Survey of Web Service Composition based on Genetic Algorithm. Computer and Digital Engineering. 2012(07).
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Health Informatics:*
+<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering in Health Informatics*
 
 **Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. [MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/327027574_MedShare_A_Novel_Hybrid_Cloud_for_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). IEEE Access . (**Q1** - JCR 2018).
 
@@ -68,21 +68,19 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu. Querying Medical Dat
 Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. FHIES/SEHC'14: 222-238.
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>
- *Machine Learning:*
+ *Software Engineering in Machine Learning:*
 
 **Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). *PrePrint*.
 
-Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction. *PrePrint*.
-
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://www.researchgate.net/publication/327496228_Deep_learning_for_in_vitro_prediction_of_pharmaceutical_formulations). Acta Pharmaceutica Sinica B (2018). (**Q1** - JCR 2018)
+
+Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction. Molecular Pharmaceutics (2018). (**Q1** - JCR 2018)
 
 Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://www.researchgate.net/publication/322902289_Predicting_Oral_Disintegrating_Tablet_Formulations_by_Neural_Network_Techniques). Asian Journal of Pharmaceutical Sciences (2018). (**Co-First and Q1** - JCR 2018)
 
 Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image classification based on multilayer extreme learning machine. Multidimensional Systems and Signal Processing 28, no. 3 (2017): 851-865. (**Q2** - JCR 2018)
 
 Guoyong Duan, Jing Yang, **Yilong Yang**. Content-based image retrieval research. Physics Procedia 22 (2011): 471-477.
-
-<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Network:*
 
 Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed crawler based on Skipnet-YL network. PACCS 2011.
 
