@@ -17,7 +17,7 @@ PhD Candidate of Software Engineering
 
 ## Currently
 
-I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests include automated software engineering and machine learning application.  
+I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests include intelligent software engineering.  
 
 ## Education
 
@@ -67,6 +67,8 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu. Querying Medical Dat
 
 Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. FHIES/SEHC'14: 222-238.
 
+Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed crawler based on Skipnet-YL network. PACCS 2011.
+
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>
  *Software Engineering in Machine Learning:*
 
@@ -82,7 +84,7 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 Guoyong Duan, Jing Yang, **Yilong Yang**. Content-based image retrieval research. Physics Procedia 22 (2011): 471-477.
 
-Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed crawler based on Skipnet-YL network. PACCS 2011.
+
 
 
 ## Research Projects
