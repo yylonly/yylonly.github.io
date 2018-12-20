@@ -17,11 +17,11 @@ PhD Candidate of Software Engineering
 
 ## Currently
 
-I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests include automated software engineering and machine learning application.
+I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests include automated software engineering and machine learning application.  
 
 ## Education
 
-`2018` **University of Macau**, PhD Candidate in Software Engineering.
+`2015` **University of Macau**, PhD Candidate in Software Engineering.
 
 `2013` **Guizhou University**, MSc in Computer Sciences.
 
@@ -35,6 +35,10 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 `2008 - 2010` **Xuzhou Surpass Lab and Guizhou WolkTech Inc.** Lecturer for RedHat and Cisco Certification (RHCE, CCNA, and CCNP)
 
 
+## CASE Tools
+
+**RM2PT** - [Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.mydreamy.net)
+
 ## Publications
 
 ### Software Engineering
@@ -45,9 +49,11 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 **Yilong Yang**, Xiaoshan Li, Quan Zu. [Real-time System Modeling and Verification through Labeled Transition System Analyser (LTSA)](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA). *PrePrint*.
 
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. ICSE'19.
+
 **Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. [An Integrated Framework for Semantic Service Composition using Answer Set Programming](https://www.researchgate.net/publication/273772848_An_integrated_framework_for_semantic_service_composition_using_answer_set_programming). Int. J. Web Service Res. 11(4): 47-61 (2014).
 
-Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and Consistency Verification on Requirement Model. ATISR 2012.
+Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and Consistency Verification on Requirement Model. ATISR'12.
 
 **Yilong Yang**, Weiru Wang, Yang Jing. Survey of Web Service Composition based on Genetic Algorithm. Computer and Digital Engineering. 2012(07).
 
@@ -57,9 +63,9 @@ Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and
 
 **Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://www.researchgate.net/publication/325518439_MicroShare_Privacy-Preserved_Medical_Resource_Sharing_through_MicroService_Architecture). Int J Biol Sci 2018; 14(8):907-919. (**Q1** - JCR 2018)
 
-Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu. Querying Medical Datasets While Preserving Privacy. EUSPN/ICTH 2016: 324-331.
+Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu. Querying Medical Datasets While Preserving Privacy. EUSPN/ICTH'16: 324-331.
 
-Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. FHIES/SEHC 2014: 222-238.
+Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. FHIES/SEHC'14: 222-238.
 
 ### Machine Learning
 
@@ -82,9 +88,9 @@ Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed cr
 
 ## Research Projects
 
-`2016 - 2019`             Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. FDCT 103/2015/A3.
+`2016 - 2019`             Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. FDCT 103/2015/A3 (**Main Contributor**).
 
-`2016 - 2019`             Applying RUP Iterative Development in rCOS for Formal Requirement Analysis and Validation. National Natural Science Foundation of China. NSFC 61562011.
+`2016 - 2019`             Applying RUP Iterative Development in rCOS for Formal Requirement Analysis and Validation. National Natural Science Foundation of China. NSFC 61562011 (**Main Contributor**).
 
 `2012 - 2015`             Secure Architecture for Electronic Health Records (SAFEHR). Macau Science and Technology Development Fund. FDCT 018/2011/A1.
 
@@ -152,33 +158,31 @@ Session Chair: APSCC 2014.
 
 `2007` Implementation of load balance between server and switch.
 
-
-
 ## Open Source Projects
-
 
 My personal [GitHub account](https://github.com/yylonly) hosts my open source projects as well as listing contributions to open source tools. It mainly contains:
 
-1 - Requirements Validation and Evolution by Automated Prototypeing: [AutoPrototyping](https://github.com/yylonly/AutoPrototyping-Release)
+1 - RM2PT Case Studies: [CaseStudies](https://github.com/yylonly/AutoPrototype-CaseStudies)
 
-2 - AutoPrototyping Case Studies: [CaseStudies](https://github.com/yylonly/AutoPrototype-CaseStudies)
+2 - MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture: [MedShare-MicroService](https://github.com/yylonly/MedShare-MicroService)
 
-3 - Privacy-Preserved Medical Resource Sharing through MicroService Architecture: [MedShare-MicroService](https://github.com/yylonly/MedShare-MicroService)
+3 - MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers: [MedShare](https://github.com/yylonly/medshare)
 
-4 - Medical Resource Sharing among Autonomous Healthcare Providers: [MedShare](https://github.com/yylonly/medshare)
+4 - Deep Learning for Pharmaceutical Formulation Prediction (InVitro): [DeepPharm-InVitro](https://github.com/yylonly/DeepPharm-InVitro)
 
-5 - Deep Learning for Pharmaceutical Formulation Prediction (InVitro): [DeepPharm-InVitro](https://github.com/yylonly/DeepPharm-InVitro)
+5 - Deep Learning for Pharmaceutical Formulation Prediction (InVivo): [DeepPharm-InVivo](https://github.com/yylonly/DeepPharm-InVivo)
 
-6 - Deep Learning for Pharmaceutical Formulation Prediction (InVivo): [DeepPharm-InVivo](https://github.com/yylonly/DeepPharm-InVivo)
-
-7 - A Deep Neural Network for Web Service Classification: [ServeNet](https://github.com/yylonly/ServeNet)
-
+6 - A Deep Neural Network for Web Service Classification: [ServeNet](https://github.com/yylonly/ServeNet)
 
 ## Awards
 
-Postgraduate scholarship (PhD fees + enhanced stipend)
+`2016 - 2019` PhD Research Assistantship
 
-Postgraduate scholarship (MSc fees + stipend) and national postgraduate scholarship of China
+`2013 - 2016` Postgraduate Scholarship (PhD tuition fee exempt + enhanced stipend)
+
+`2013` National Postgraduate Scholarship of China (Master)
+
+`2010 - 2013` Postgraduate Scholarship (Master tuition fee exempt + living costs)
 
 
 ## Placements
