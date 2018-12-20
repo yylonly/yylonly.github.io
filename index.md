@@ -178,7 +178,7 @@ My personal [GitHub account](https://github.com/yylonly) hosts my open source pr
 
 `2016 - 2019` PhD Research Assistantship
 
-`2013 - 2016` Postgraduate Scholarship (PhD tuition fee exempt + enhanced stipend)
+`2013 - 2016` Postgraduate Scholarship (PhD tuition fee exempt + living costs)
 
 `2013` National Postgraduate Scholarship of China (Master)
 
