@@ -49,7 +49,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 **Yilong Yang**, Xiaoshan Li, Quan Zu. [Real-time System Modeling and Verification through Labeled Transition System Analyser (LTSA)](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA). *PrePrint*.
 
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. ICSE'19.
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. **ICSE'19**.
 
 **Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. [An Integrated Framework for Semantic Service Composition using Answer Set Programming](https://www.researchgate.net/publication/273772848_An_integrated_framework_for_semantic_service_composition_using_answer_set_programming). Int. J. Web Service Res. 11(4): 47-61 (2014).
 
