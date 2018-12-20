@@ -17,7 +17,7 @@ PhD Candidate of Software Engineering
 
 ## Currently
 
-I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests include intelligent software engineering.  
+I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests are intelligent software engineering.  
 
 ## Education
 
@@ -37,7 +37,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Software Engineering Tools
 
-**RM2PT** - [A Tool for Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.mydreamy.net)
+**RM2PT** - [A Tool for Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.mydreamy.net) (Accepted by ICSE'19)
 
 ## Publications
 
@@ -70,7 +70,7 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. 
 Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed crawler based on Skipnet-YL network. PACCS 2011.
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>
- *Software Engineering in Machine Learning:*
+ *Software Engineering in Machine Learning*
 
 **Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). *PrePrint*.
 
