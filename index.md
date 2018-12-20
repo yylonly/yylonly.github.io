@@ -41,7 +41,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Publications
 
-*Software Engineering:*
+`Software Engineering:`
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model). *PrePrint*.
 
@@ -57,7 +57,7 @@ Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and
 
 **Yilong Yang**, Weiru Wang, Yang Jing. Survey of Web Service Composition based on Genetic Algorithm. Computer and Digital Engineering. 2012(07).
 
-*Health Informatics:*
+`Health Informatics:`
 
 **Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. [MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/327027574_MedShare_A_Novel_Hybrid_Cloud_for_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). IEEE Access . (**Q1** - JCR 2018).
 
@@ -67,7 +67,7 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu. Querying Medical Dat
 
 Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. FHIES/SEHC'14: 222-238.
 
-*Machine Learning:*
+`Machine Learning:`
 
 **Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). *PrePrint*.
 
@@ -81,7 +81,7 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 Guoyong Duan, Jing Yang, **Yilong Yang**. Content-based image retrieval research. Physics Procedia 22 (2011): 471-477.
 
-*Network:*
+`Network:`
 
 Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed crawler based on Skipnet-YL network. PACCS 2011.
 
