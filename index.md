@@ -35,9 +35,9 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 `2008 - 2010` **Xuzhou Surpass Lab and Guizhou WolkTech Inc.** Lecturer for RedHat and Cisco Certification (RHCE, CCNA, and CCNP)
 
 
-## CASE Tools
+## Software Engineering Tools
 
-**RM2PT** - [Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.mydreamy.net)
+**RM2PT** - [A Tool for Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.mydreamy.net)
 
 ## Publications
 
