@@ -41,13 +41,17 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Publications
 
+<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Preprint*
+
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model).
+
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/323770893_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis).
+
+**Yilong Yang**, Xiaoshan Li, Quan Zu. [Real-time System Modeling and Verification through Labeled Transition System Analyser (LTSA)](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA).
+
+**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). 
+
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
-
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model). *PrePrint*.
-
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/323770893_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis). *PrePrint*.
-
-**Yilong Yang**, Xiaoshan Li, Quan Zu. [Real-time System Modeling and Verification through Labeled Transition System Analyser (LTSA)](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA). *PrePrint*.
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. **ICSE'19**.
 
@@ -71,8 +75,6 @@ Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed cr
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>
  *Software Engineering in Machine Learning*
-
-**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). *PrePrint*.
 
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://www.researchgate.net/publication/327496228_Deep_learning_for_in_vitro_prediction_of_pharmaceutical_formulations). Acta Pharmaceutica Sinica B (2018). (**Q1** - JCR 2018)
 
