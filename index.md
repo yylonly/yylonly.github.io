@@ -49,7 +49,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 **Yilong Yang**, Xiaoshan Li, Quan Zu. [Real-time System Modeling and Verification through Labeled Transition System Analyser (LTSA)](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA).
 
-**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). 
+**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification).
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
 
@@ -78,7 +78,7 @@ Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed cr
 
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://www.researchgate.net/publication/327496228_Deep_learning_for_in_vitro_prediction_of_pharmaceutical_formulations). Acta Pharmaceutica Sinica B (2018). (**Q1** - JCR 2018)
 
-Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction. Molecular Pharmaceutics (2018). (**Co-First and Q1** - JCR 2018)
+Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. [An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction](https://www.researchgate.net/publication/329821566_An_Integrated_Transfer_Learning_and_Multitask_Learning_Approach_for_Pharmacokinetic_Parameter_Prediction). Molecular Pharmaceutics (2018). (**Co-First and Q1** - JCR 2018)
 
 Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://www.researchgate.net/publication/322902289_Predicting_Oral_Disintegrating_Tablet_Formulations_by_Neural_Network_Techniques). Asian Journal of Pharmaceutical Sciences (2018). (**Co-First and Q1** - JCR 2018)
 
