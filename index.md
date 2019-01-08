@@ -53,7 +53,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. **ICSE'19**.
 
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/323770893_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis). IEEE Access. (**Q1** - JCR 2018).
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/330216334_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis). IEEE Access. (**Q1** - JCR 2018).
 
 **Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. [An Integrated Framework for Semantic Service Composition using Answer Set Programming](https://www.researchgate.net/publication/273772848_An_integrated_framework_for_semantic_service_composition_using_answer_set_programming). Int. J. Web Service Res. 11(4): 47-61 (2014).
 
