@@ -126,16 +126,16 @@ Session Chair: APSCC 2014.
 
 * [IBM MicroServices (2019)](https://www.coursera.org/account/accomplishments/specialization/TBR4QTCPYZX9)
 * [Deep Learning - Andrew Ng (2018)](https://www.coursera.org/account/accomplishments/specialization/UCTPXUGBXPTT)
-* [Machine Learning - Andrew Ng (2014)]
-* [Red Hat Certified Engineer - RHCE (2008)]
-* [Cisco Certified Network Professional - CCNP (2007)]
+* Machine Learning - Andrew Ng (2014)
+* Red Hat Certified Engineer - RHCE (2008)]
+* Cisco Certified Network Professional - CCNP (2007)
 
 ## Areas of expertise
 
 * Requirements Engineering
-* MicroService Application
-* Medical Sharing for Electronic Health Records (EHR)
-* Machine learning Application
+* Microservices/DevOps
+* Health Informatics
+* Machine learning Applications
 
 ## Engineering Projects
 
