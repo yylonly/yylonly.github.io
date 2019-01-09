@@ -122,6 +122,14 @@ Session Chair: APSCC 2014.
 * Kubernetes
 * TensorFlow / DeepLearning4j
 
+## Technical certifications
+
+* [IBM MicroServices (2019)](https://www.coursera.org/account/accomplishments/specialization/TBR4QTCPYZX9)
+* [Deep Learning - Andrew Ng (2018)](https://www.coursera.org/account/accomplishments/specialization/UCTPXUGBXPTT)
+* [Machine Learning - Andrew Ng (2014)]
+* [Red Hat Certified Engineer - RHCE (2008)]
+* [Cisco Certified Network Professional - CCNP (2007)]
+
 ## Areas of expertise
 
 * Requirements Engineering
