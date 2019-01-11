@@ -127,7 +127,7 @@ Session Chair: APSCC 2014.
 * [IBM MicroServices (2019)](https://www.coursera.org/account/accomplishments/specialization/TBR4QTCPYZX9)
 * [Deep Learning - Andrew Ng (2018)](https://www.coursera.org/account/accomplishments/specialization/UCTPXUGBXPTT)
 * Machine Learning - Andrew Ng (2014)
-* Red Hat Certified Engineer - RHCE (2008)]
+* Red Hat Certified Engineer - RHCE (2008)
 * Cisco Certified Network Professional - CCNP (2007)
 
 ## Areas of expertise
@@ -211,3 +211,4 @@ To be Announced.
 * <i class="ai ai-arxiv"></i> <a href="http://arxiv.org/a/yang_y_7">Arxiv Preprint</a>
 * <i class="fa fa-github"></i> <a href="http://github.com/yylonly">GitHub</a>
 * <i class="fa fa-user"></i> <a href="http://lab.mydreamy.net">UM Software Engineering Lab</a>
+* <i class="fa fa-user"></i> <a href="http://daas.mydreamy.net">MCloud Knowledge Center</a>
