@@ -43,19 +43,19 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Preprint*
 
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model). Under review of IEEE Transactions on Reliability.
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model). Under review of IEEE Transactions on Reliability (Q1).
 
-**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). Under review of Fronter of Computer Science.
+**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). Under review of Fronter of Computer Science (CCF C).
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
 
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. **ICSE'19**.
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. **ICSE'19** (CCF A).
 
 **Yilong Yang**, Quan Zu, Xiaoshan Li. [Real-time System Modeling and Verification through Labelled Transition System Analyser](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA). IEEE Access. (**Q1** - JCR 2018).
 
 **Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/330216334_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis). IEEE Access. (**Q1** - JCR 2018).
 
-**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. [An Integrated Framework for Semantic Service Composition using Answer Set Programming](https://www.researchgate.net/publication/273772848_An_integrated_framework_for_semantic_service_composition_using_answer_set_programming). Int. J. Web Service Res. 11(4): 47-61 (2014).
+**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. [An Integrated Framework for Semantic Service Composition using Answer Set Programming](https://www.researchgate.net/publication/273772848_An_integrated_framework_for_semantic_service_composition_using_answer_set_programming). Int. J. Web Service Res. 11(4): 47-61 (2014) (SCI).
 
 Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and Consistency Verification on Requirement Model. ATISR'12.
 
