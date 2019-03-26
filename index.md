@@ -21,11 +21,11 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Education
 
-`2015` **University of Macau**, PhD Candidate in Software Engineering.
+`2013.09 - Current` **University of Macau**, PhD Candidate in Software Engineering.
 
-`2013` **Guizhou University**, MSc in Computer Sciences.
+`2010.09 - 2013.06` **Guizhou University**, MSc in Computer Science.
 
-`2010` **China University of Mining and Technology**, BS in Computer Sciences.
+`2006.09 - 2010.07` **China University of Mining and Technology**, BS in Computer Science.
 
 
 ## Employment
@@ -37,55 +37,50 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Software Engineering Tools
 
-**RM2PT** - [A Tool for Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.mydreamy.net) (Accepted by ICSE'19)
+**RM2PT** - [A Tool for Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.mydreamy.net)
 
 ## Publications
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Preprint*
-
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. [Automated Prototype Generation from Formal Requirements Model](https://www.researchgate.net/publication/327392292_Automated_Prototype_Generation_from_Formal_Requirements_Model). Under review of IEEE Transactions on Reliability (Q1).
-
-**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. [ServeNet: A Deep Neural Network for Web Service Classification](https://www.researchgate.net/publication/325778290_ServeNet_A_Deep_Neural_Network_for_Web_Service_Classification). Under review of Fronter of Computer Science (CCF C).
-
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
 
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. RM2PT: A Tool for Automated Prototype Generation from Requirements Model. **ICSE'19** (CCF A).
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. "[RM2PT: A Tool for Automated Prototype Generation from Requirements Model](https://2019.icse-conferences.org/event/icse-2019-demonstrations-rm2pt-a-tool-for-automated-prototype-generation-fromrequirements-model)". presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**).
 
-**Yilong Yang**, Quan Zu, Xiaoshan Li. [Real-time System Modeling and Verification through Labelled Transition System Analyser](https://www.researchgate.net/publication/323771072_Real-time_System_Modeling_and_Verification_through_Labeled_Transition_System_Analyser_LTSA). IEEE Access. (**Q1** - JCR 2018).
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke, Quan Zu, Xiaohong Chen. "[Automated Prototype Generation from Formal Requirements Model](http://arxiv.org/abs/1808.10657)". IEEE Transactions on Reliability (Minor Revision) (**JCR - Q1**).
 
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. [Integrating UML with Service Refinement for Requirements Modeling and Analysis](https://www.researchgate.net/publication/330216334_Integrating_UML_with_Service_Refinement_for_Requirements_Modeling_and_Analysis). IEEE Access. (**Q1** - JCR 2018).
+**Yilong Yang**, Quan Zu, Xiaoshan Li. "[Real-Time System Modeling and Verification Through Labeled Transition System Analyzer](https://doi.org/10.1109/ACCESS.2019.2899761)". IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**).
 
-**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. [An Integrated Framework for Semantic Service Composition using Answer Set Programming](https://www.researchgate.net/publication/273772848_An_integrated_framework_for_semantic_service_composition_using_answer_set_programming). Int. J. Web Service Res. 11(4): 47-61 (2014) (SCI).
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. "[Integrating UML With Service Refinement for Requirements Modeling and Analysis](https://doi.org/10.1109/ACCESS.2019.2892082)". IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**).
 
-Ning Jin, **Yilong Yang**, Guoyong Duan, Jing Yang. Research of Completeness and Consistency Verification on Requirement Model. ATISR'12.
+**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. "[ServeNet: A Deep Neural Network for Web Service Classification](http://arxiv.org/abs/1806.05437)". Fronter of Computer Science (Major Revision) (**CCF C**).
 
-**Yilong Yang**, Weiru Wang, Yang Jing. Survey of Web Service Composition based on Genetic Algorithm. Computer and Digital Engineering. 2012(07).
+**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**SCI**).
+
+Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security Analysis for OpenFlow-Based Networks](https://doi.org/10.1109/ICECCS2018.2018.00032)". 2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS'18), Melbourne, VIC, 2018, pp. 201-204.
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering in Health Informatics*
 
-**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. [MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers](https://www.researchgate.net/publication/327027574_MedShare_A_Novel_Hybrid_Cloud_for_Medical_Resource_Sharing_among_Autonomous_Healthcare_Providers). IEEE Access . (**Q1** - JCR 2018).
+**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. ["MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers"](https://doi.org/10.1109/ACCESS.2018.2865535). IEEE Access, 6, pp. 46949-46961 (2018). (**JCR - Q1**).
 
-**Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://www.researchgate.net/publication/325518439_MicroShare_Privacy-Preserved_Medical_Resource_Sharing_through_MicroService_Architecture). Int J Biol Sci 2018; 14(8):907-919. (**Q1** - JCR 2018)
+**Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://doi.org/10.7150/ijbs.24617). International Journal of Biological Sciences, 14(8), pp. 907-919 (2018). (**JCR - Q1**)
 
-Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu. Querying Medical Datasets While Preserving Privacy. EUSPN/ICTH'16: 324-331.
+Bingqing Shen, Jingzhi Guo, and **Yilong Yang**. ["MedChain: Efficient Healthcare Data Sharing via Blockchain"](https://doi.org/10.3390/app9061207). Applied Sciences, 9(6), p.1207 (2019). (**JCR - Q3**)
 
-Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. FHIES/SEHC'14: 222-238.
+Nafees Qamar, **Yilong Yang**, Andras Nadas, Zhiming Liu. Querying Medical Datasets While Preserving Privacy. Procedia Computer Science, 98, pp.324-331 (2016).
 
-Yilong Yang, Jing Yang. Design and Implementation of a multi-area distributed crawler based on Skipnet-YL network. PACCS 2011.
+Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. In Software Engineering in Health Care (SEHC'14), pp. 222-238. Springer, Cham, 2014.
+
+**Yilong Yang**, Jing Yang. "Design and Implementation of a Multi-Area Distributed Crawler Based on Skipnet-YL Network," 2011 Third Pacific-Asia Conference on Circuits, Communications and System (PACCS'11), Wuhan, 2011, pp. 1-4.
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>
  *Software Engineering in Machine Learning*
 
-**Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://www.researchgate.net/publication/327496228_Deep_learning_for_in_vitro_prediction_of_pharmaceutical_formulations). Acta Pharmaceutica Sinica B (2018). (**Q1** - JCR 2018)
+**Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://doi.org/10.1016/j.apsb.2018.09.010). Acta Pharmaceutica Sinica B, 9(1), pp. 177-185 (2019)  (**JCR - Q1**)
 
-Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. [An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction](https://www.researchgate.net/publication/329821566_An_Integrated_Transfer_Learning_and_Multitask_Learning_Approach_for_Pharmacokinetic_Parameter_Prediction). Molecular Pharmaceutics (2018). (**Co-First and Q1** - JCR 2018)
+Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. [An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction](https://doi.org/10.1021/acs.molpharmaceut.8b00816). Molecular pharmaceutics, 16(2), pp.533-541 (2018). (**Co-First Author and JCR - Q1**)
 
-Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://www.researchgate.net/publication/322902289_Predicting_Oral_Disintegrating_Tablet_Formulations_by_Neural_Network_Techniques). Asian Journal of Pharmaceutical Sciences (2018). (**Co-First and Q1** - JCR 2018)
+Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://doi.org/10.1016/j.ajps.2018.01.003). Asian Journal of Pharmaceutical Sciences, 13(4), pp.336-342 (2018). (**Co-First Author and JCR - Q1**)
 
-Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image classification based on multilayer extreme learning machine. Multidimensional Systems and Signal Processing 28, no. 3 (2017): 851-865. (**Q2** - JCR 2018)
-
-Guoyong Duan, Jing Yang, **Yilong Yang**. Content-based image retrieval research. Physics Procedia 22 (2011): 471-477.
-
+Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image classification based on multilayer extreme learning machine. Multidimensional Systems and Signal Processing, 28(3), pp.851-865 (2017). (**JCR - Q2**)
 
 
 
