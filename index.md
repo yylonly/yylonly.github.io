@@ -43,20 +43,21 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
 
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. "[RM2PT: A Tool for Automated Prototype Generation from Requirements Model](https://2019.icse-conferences.org/event/icse-2019-demonstrations-rm2pt-a-tool-for-automated-prototype-generation-fromrequirements-model)". presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**).
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](https://2019.icse-conferences.org/event/icse-2019-demonstrations-rm2pt-a-tool-for-automated-prototype-generation-from-requirements-model)". presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**).
 
-**Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. "[Automated Prototype Generation from Formal Requirements Model](http://arxiv.org/abs/1808.10657)". IEEE Transactions on Reliability (Minor Revision) (**JCR - Q1**).
+**Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](http://arxiv.org/abs/1808.10657)". IEEE Transactions on Reliability (Minor Revision) (**JCR - Q1**).
 
-**Yilong Yang**, Quan Zu, Xiaoshan Li. "[Real-Time System Modeling and Verification Through Labeled Transition System Analyzer](https://doi.org/10.1109/ACCESS.2019.2899761)". IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**).
+**Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761)". IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**).
 
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. "[Integrating UML With Service Refinement for Requirements Modeling and Analysis](https://doi.org/10.1109/ACCESS.2019.2892082)". IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**).
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082)". IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**).
 
-**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. "[ServeNet: A Deep Neural Network for Web Service Classification](http://arxiv.org/abs/1806.05437)". Fronter of Computer Science (Major Revision) (**SCI**).
+**Yilong Yang**, Peng Liu, Lianchao Ding, Bingqing Shen, Weiru Wang. ["ServeNet: A Deep Neural Network for Web Service Classification"](http://arxiv.org/abs/1806.05437)". Fronter of Computer Science (Major Revision) (**SCI**).
 
 **Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**SCI**).
 
 Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security Analysis for OpenFlow-Based Networks](https://doi.org/10.1109/ICECCS2018.2018.00032)". 2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS'18), Melbourne, VIC, 2018, pp. 201-204. (**CCF C**)
 
+<br />
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering in Health Informatics*
 
 **Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. ["MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers"](https://doi.org/10.1109/ACCESS.2018.2865535). IEEE Access, 6, pp. 46949-46961 (2018). (**JCR - Q1**).
@@ -71,6 +72,7 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. 
 
 **Yilong Yang**, Jing Yang. "Design and Implementation of a Multi-Area Distributed Crawler Based on Skipnet-YL Network," 2011 Third Pacific-Asia Conference on Circuits, Communications and System (PACCS'11), Wuhan, 2011, pp. 1-4.
 
+<br />
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>
  *Software Engineering in Machine Learning*
 
