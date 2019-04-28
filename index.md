@@ -3,7 +3,7 @@ layout: cv
 title: Yilong Yang's CV
 ---
 # Yilong Yang
-PhD Candidate of Software Engineering
+Intelligent and Dependable Software Engineering
 
 <div id="webaddress">
 
@@ -17,9 +17,6 @@ PhD Candidate of Software Engineering
 
 I'm a PhD Candidate in Software Engineering at the University of Macau, Macau.
 
-## Research Interests
-
-Intelligent and Dependable Software Engineering.  
 
 ## Education
 
