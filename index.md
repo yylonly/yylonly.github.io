@@ -7,9 +7,7 @@ PhD Candidate of Software Engineering
 
 <div id="webaddress">
 
-<i class="fa fa-user" aria-hidden="true"></i> <a href="http://lab.mydreamy.net">Software Enggineeing Lab</a>
-|
-<i class="fa fa-github"></i> <a href="http://github.com/yylonly">yylonly</a>
+<i class="fa fa-user" aria-hidden="true"></i> <a href="http://rm2pt.yilong.io">RM2PT</a>
 |
 <i class="fa fa-envelope"></i> <a href="mailto:yylonly@gmail.com">yylonly@gmail.com</a>
 </div>
@@ -17,7 +15,11 @@ PhD Candidate of Software Engineering
 
 ## Currently
 
-I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. Research interests includes automated and intelligent software engineering.  
+I'm a PhD Candidate in Software Engineering at the University of Macau, Macau.
+
+## Research Interests
+
+Intelligent and Dependable Software Engineering.  
 
 ## Education
 
@@ -30,7 +32,7 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 ## Employment
 
-`2013` **United Nations University - International Institute for Software Technology**, Fellow and System Administrator.
+`2012 - 2013` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Fellow, Macau.
 
 `2008 - 2010` **Xuzhou Surpass Lab and Guizhou WolkTech Inc.** Lecturer for RedHat and Cisco Certification (RHCE, CCNA, and CCNP)
 
@@ -43,19 +45,25 @@ I'm a PhD Candidate in Software Engineering at the University of Macau, Macau. R
 
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
 
-**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
-
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](https://2019.icse-conferences.org/event/icse-2019-demonstrations-rm2pt-a-tool-for-automated-prototype-generation-from-requirements-model). presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**).
 
 **Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](http://arxiv.org/abs/1808.10657). IEEE Transactions on Reliability (Minor Revision) (**JCR - Q1**).
 
-**Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761). IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**).
-
 **Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**).
 
-**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**SCI**).
+**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
+
+**Yilong Yang**, ["SSC-ASP: An Integrated Framework for Semantic Service Composition Using Answer Set Programming"](https://doi.org/10.4018/978-1-5225-7268-8.ch001). Innovative Solutions and Applications of Web Services Technology. ISBN: 9781522572688. (Book-Chapter)
+
+
+**Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761). IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**).
 
 Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security Analysis for OpenFlow-Based Networks](https://doi.org/10.1109/ICECCS2018.2018.00032). 2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS'18), Melbourne, VIC, 2018, pp. 201-204. (**CCF C**)
+
+**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**SCI Indexed**).
+
+**Yilong Yang**, Jing Yang. "Design and Implementation of a Multi-Area Distributed Crawler Based on Skipnet-YL Network," 2011 Third Pacific-Asia Conference on Circuits, Communications and System (PACCS'11), Wuhan, 2011, pp. 1-4.
+
 
 <br />
 <i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering in Health Informatics*
@@ -70,7 +78,7 @@ Nafees Qamar, **Yilong Yang**, Andras Nadas, Zhiming Liu. Querying Medical Datas
 
 Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. In Software Engineering in Health Care (SEHC'14), pp. 222-238. Springer, Cham, 2014.
 
-**Yilong Yang**, Jing Yang. "Design and Implementation of a Multi-Area Distributed Crawler Based on Skipnet-YL Network," 2011 Third Pacific-Asia Conference on Circuits, Communications and System (PACCS'11), Wuhan, 2011, pp. 1-4.
+
 
 <br />
 <i class="fa fa-angle-double-right" aria-hidden="true"></i>
@@ -88,29 +96,90 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 ## Research Projects
 
-`2016 - 2019`             Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. FDCT 103/2015/A3 (**Main Contributor**).
+`2016 - 2019`             Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. FDCT 103/2015/A3. (**Main Contributor**)
 
-`2016 - 2019`             Applying RUP Iterative Development in rCOS for Formal Requirement Analysis and Validation. National Natural Science Foundation of China. NSFC 61562011 (**Main Contributor**).
+`2016 - 2019`             Applying RUP Iterative Development for Formal Requirements Analysis and Validation. National Natural Science Foundation of China. NSFC 61562011. (**Main Contributor**)
 
-`2012 - 2015`             Secure Architecture for Electronic Health Records (SAFEHR). Macau Science and Technology Development Fund. FDCT 018/2011/A1.
+`2012 - 2015`             Secure Architecture for Electronic Health Records (SAFEHR). Macau Science and Technology Development Fund. FDCT 018/2011/A1. (**Main Contributor**)
 
-`2012 - 2013`             Research and Implementation of Trusted and Intelligent Cloud Service Component Model. Innovation Fund of Guizhou University. [2012]ligong2012036. (**PI**)
+`2012 - 2013`             Dependable and Intelligent Service-oriented Architecture for Hybrid Cloud. Innovation Fund of Guizhou University. No. ligong2012036. (**PI**)
 
-`2011 - 2012`             Design and Implementation of multi-area and multi-domain cloud communication and data acquisition model. GuiYang Bureau of Science and Technology Plan Projects. [2011]zhukehetong2011201da-4-2. (**PI**)
+`2011 - 2012`             Distributed Architecture of Crawler based on P2P network. Natural Science Foundation of GuiYang. No. zhukehetong2011201da-4-2. (**PI**)
+
+
+
 
 ## Research Services
 
-Sub-Reviewer: Fronter of Computer Science, Journal of Software: Practice and Exprience. IEEE Transactions on Reliability. FACS 2014. TASE 2014-2015. FSEN 2015. ICFEM 2016. ISSRE 2017-2018.
+Sub-Reviewer for conferences:  TASE 2019, 2015, 2014. ICTAC 2017. ICFEM 2016. SEH 2019. ISSRE 2018, 2017. FSEN 2015. KSE 2015. FACS 2014.
+
+Sub-Reviewer for journals: IEEE Transactions on Reliability. Journal of Software: Practice and Experience. Frontier of Computer Science.
 
 Session Chair: APSCC 2014.
 
-## Technical skills
+
+## Engineering Projects
+
+<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Multi-year Projects*
+
+`2016 - 2018` Pharmaceutical Formulation Prediction based on Deep Learning.
+
+`2014 - 2015` Traditional Chinese Prescription Process, Analysis and Prediction.
+
+`2012 - 2013` Test Case Generation from Formal Specification. (**PM**)
+
+`2010 - 2011` Mobile-based Data Security Partner. (**PM**)
+
+`2008 - 2009` Security Data Storage Partner.
+
+<i class="fa fa-angle-double-right" aria-hidden="true"></i> *One-year Projects*
+
+`2013` UNU-IIST System and Network Immigration.
+
+`2009` Enterprise Network Design and Implementation based on  Screened Subnet Architecture. (**PM**)
+
+`2009` Online Examination System. (**PM**)
+
+`2009` Full Text Search Engine. (**PM**)
+
+`2008` Traffic Light System. (**PM**)
+
+`2007` Loading Balance of CUMT Campus Network.
+
+`2007` PPPoE Client of CUMT Campus Network.
+
+
+## Open Source Projects
+
+My personal [GitHub account](https://github.com/yylonly) hosts my open source projects as well as listing contributions to open source tools. It mainly contains:
+
+1 - RM2PT Case Studies: [RM2PT-CaseStudies](https://github.com/RM2PT/CaseStudies)
+
+2 - MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture: [MedShare-MicroService](https://github.com/yylonly/MedShare-MicroService)
+
+3 - MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers: [MedShare](https://github.com/yylonly/medshare)
+
+4 - Deep Learning for Web Service Classification: [ServeNet](https://github.com/yylonly/ServeNet)
+
+5 - Deep Learning for Pharmaceutical Formulation Prediction: [DeepPharm](https://github.com/yylonly/DeepPharm)
+
+6 - Data Splitting for Small Data: [MD-FIS](https://github.com/yylonly/MD-FIS)
+
+## Technical Certifications
+
+* [IBM MicroServices (2019)](https://www.coursera.org/account/accomplishments/specialization/TBR4QTCPYZX9)
+* [Deep Learning - Andrew Ng (2018)](https://www.coursera.org/account/accomplishments/specialization/UCTPXUGBXPTT)
+* Machine Learning - Andrew Ng (2014)
+* Red Hat Certified Engineer - RHCE (2008)
+* Cisco Certified Network Professional - CCNP (2007)
+
+## Techniques
 
 * Java / Java EE
 * Python
 * C/C++
 * C#
-* HTML and CSS
+* Javascrip / HTML / CSS
 * LaTeX
 * Bash
 * Git / SVN
@@ -119,76 +188,15 @@ Session Chair: APSCC 2014.
 * Kubernetes
 * TensorFlow / DeepLearning4j
 
-## Technical certifications
-
-* [IBM MicroServices (2019)](https://www.coursera.org/account/accomplishments/specialization/TBR4QTCPYZX9)
-* [Deep Learning - Andrew Ng (2018)](https://www.coursera.org/account/accomplishments/specialization/UCTPXUGBXPTT)
-* Machine Learning - Andrew Ng (2014)
-* Red Hat Certified Engineer - RHCE (2008)
-* Cisco Certified Network Professional - CCNP (2007)
-
-## Areas of expertise
-
-* Requirements Engineering
-* Microservices/DevOps
-* Health Informatics
-* Machine learning Applications
-
-## Engineering Projects
-
-`2015 - 2016` Privacy-Preserving Distributed EHR Sharing System (**PM**)
-
-`2014 - 2015` Traditional Chinese Prescription Process, Analysis and Prediction (**PM**)
-
-`2013 - 2014` Service-oriented EHR Sharing System (**PM**)
-
-`2013` Use Case Automated Generation by Z notation- ZtoZ3 Compile.
-
- Ontology EHR Sharing System.
-
- GitLab and Immigrate UNU-IIST System to Fiber.
-
-`2011` Mobile Security Partner. (**PM**)
-
-`2010` Design and Implementation of a multi-area distributed crawler based on SkipNet-YL network.
-
-`2009 - 2010` Design and Implementation of enterprise network based on Screened Subnet Architecture. (**PM**)
-
-`2009` Online examination system. (**PM**)
-
- Full Text Search Engine. (**PM**)
-
- Based on the multilevel security password encryption software.
-
-`2008` Traffic light system. (**PM**)
-
- P2P protocol simulation and load balance. (**PM**)
-
-`2007` Implementation of load balance between server and switch.
-
-## Open Source Projects
-
-My personal [GitHub account](https://github.com/yylonly) hosts my open source projects as well as listing contributions to open source tools. It mainly contains:
-
-1 - RM2PT Case Studies: [CaseStudies](https://github.com/yylonly/AutoPrototype-CaseStudies)
-
-2 - MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture: [MedShare-MicroService](https://github.com/yylonly/MedShare-MicroService)
-
-3 - MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers: [MedShare](https://github.com/yylonly/medshare)
-
-4 - Deep Learning for Pharmaceutical Formulation Prediction (InVitro): [DeepPharm-InVitro](https://github.com/yylonly/DeepPharm-InVitro)
-
-5 - Deep Learning for Pharmaceutical Formulation Prediction (InVivo): [DeepPharm-InVivo](https://github.com/yylonly/DeepPharm-InVivo)
-
-6 - A Deep Neural Network for Web Service Classification: [ServeNet](https://github.com/yylonly/ServeNet)
-
 ## Awards
 
-`2016 - 2019` PhD Research Assistantship
+
+
+`2016 - 2019` Research Assistantship  
 
 `2013 - 2016` Postgraduate Scholarship (PhD tuition fee exempt + living costs)
 
-`2013` National Postgraduate Scholarship of China (Master)
+`2010 - 2013` National Postgraduate Scholarship of China (Master)
 
 `2010 - 2013` Postgraduate Scholarship (Master tuition fee exempt + living costs)
 
