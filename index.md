@@ -44,11 +44,14 @@ I just passed my Ph.D. defense and am looking for the possible positions. Drop m
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](https://2019.icse-conferences.org/event/icse-2019-demonstrations-rm2pt-a-tool-for-automated-prototype-generation-from-requirements-model). presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**).
 
+**Yilong Yang**, Wei Ke and Xiaoshan Li. ["RM2PT: Requirements Validation through Automatic Prototyping"](http://re19.ajou.ac.kr).
+presented at the 27th IEEE International Requirements Engineering Conference (RE'19). Jeju Island, South Korea, September 2019. (**CCF B**)
+
 **Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](http://arxiv.org/abs/1808.10657). IEEE Transactions on Reliability (Minor Revision) (**JCR - Q1**).
 
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**).
+**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://conferences.computer.org/icws/2019/program/). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
 
-**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**).
 
 **Yilong Yang**, ["SSC-ASP: An Integrated Framework for Semantic Service Composition Using Answer Set Programming"](https://doi.org/10.4018/978-1-5225-7268-8.ch001). Innovative Solutions and Applications of Web Services Technology. ISBN: 9781522572688. (Book-Chapter)
 
