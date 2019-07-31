@@ -167,7 +167,10 @@ My personal [GitHub account](https://github.com/yylonly) hosts my open source pr
 
 ## Technical Certifications
 
+* [The Complete Flutter Development Bootcamp with Dart (2019)](https://www.udemy.com/certificate/UC-2X2MAZSQ/)
+* [Master Microservices with Spring Boot and Spring Cloud (2019)](https://www.udemy.com/certificate/UC-91R69UB8/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 * [IBM MicroServices (2019)](https://www.coursera.org/account/accomplishments/specialization/TBR4QTCPYZX9)
+* [Java EE 8 Microservices](https://www.udemy.com/certificate/UC-ON378FSC/)
 * [Deep Learning - Andrew Ng (2018)](https://www.coursera.org/account/accomplishments/specialization/UCTPXUGBXPTT)
 * Machine Learning - Andrew Ng (2014)
 * Red Hat Certified Engineer - RHCE (2008)
