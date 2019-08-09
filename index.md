@@ -40,7 +40,7 @@ I just passed my Ph.D. defense and am looking for the possible positions. Drop m
 
 ## Publications
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering*
+*Software Engineering*
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](http://rm2pt.mydreamy.net/data/ICSE'19.pdf). presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**).
 
@@ -66,7 +66,7 @@ Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security A
 
 
 <br />
-<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Software Engineering in Health Informatics*
+*Software Engineering in Health Informatics*
 
 **Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. ["MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers"](https://doi.org/10.1109/ACCESS.2018.2865535). IEEE Access, 6, pp. 46949-46961 (2018). (**JCR - Q1**).
 
@@ -81,7 +81,6 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. 
 
 
 <br />
-<i class="fa fa-angle-double-right" aria-hidden="true"></i>
  *Software Engineering in Machine Learning*
 
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://doi.org/10.1016/j.apsb.2018.09.010). Acta Pharmaceutica Sinica B, 9(1), pp. 177-185 (2019)  (**JCR - Q1**)
@@ -120,7 +119,7 @@ Session Chair: APSCC 2014.
 
 ## Engineering Projects
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i> *Multi-year Projects*
+*Multi-year Projects*
 
 `2016 - 2018` Pharmaceutical Formulation Prediction based on Deep Learning.
 
@@ -132,7 +131,7 @@ Session Chair: APSCC 2014.
 
 `2008 - 2009` Security Data Storage Partner.
 
-<i class="fa fa-angle-double-right" aria-hidden="true"></i> *One-year Projects*
+*One-year Projects*
 
 `2013` UNU-IIST System and Network Immigration.
 
@@ -209,14 +208,13 @@ My personal [GitHub account](https://github.com/yylonly) hosts my open source pr
 To be Announced.
 
 
-## Links
+## Other Links
 
 <!-- fa are fontawesome, ai are academicons -->
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-0099-344X">ORCID</a>
-* <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=i-kYDpAAAAAJ&hl=en">Google scholar</a>
-* <i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Yilong_Yang2">ResearchGate</a>
-* <i class="ai ai-dblp"></i> <a href="https://dblp.uni-trier.de/pers/hd/y/Yang_0001:Yilong">DBLP</a>
-* <i class="ai ai-arxiv"></i> <a href="http://arxiv.org/a/yang_y_7">Arxiv Preprint</a>
-* <i class="fa fa-github"></i> <a href="http://github.com/yylonly">GitHub</a>
-* <i class="fa fa-user"></i> <a href="http://lab.mydreamy.net">UM Software Engineering Lab</a>
-* <i class="fa fa-user"></i> <a href="http://daas.mydreamy.net">MCloud Knowledge Center</a>
+<i class="ai ai-orcid"> <a href="https://orcid.org/0000-0002-0099-344X">ORCID</a></i> <br>
+<i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=i-kYDpAAAAAJ&hl=en">Google scholar</a> <br>
+<i class="ai ai-researchgate"></i> <a href="https://www.researchgate.net/profile/Yilong_Yang2">ResearchGate</a> <br>
+<i class="ai ai-dblp"></i> <a href="https://dblp.uni-trier.de/pers/hd/y/Yang_0001:Yilong">DBLP</a> <br>
+<i class="ai ai-arxiv"></i> <a href="http://arxiv.org/a/yang_y_7">Arxiv Preprint</a> <br>
+<i class="fa fa-github"></i> <a href="http://github.com/yylonly">GitHub</a> <br>
+<i class="fa fa-user"></i> <a href="http://daas.mydreamy.net">Knowledge Center</a>
