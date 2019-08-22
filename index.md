@@ -20,11 +20,11 @@ I just passed my Ph.D. defense and am looking for the possible positions. Drop m
 
 ## Education
 
-`2013.09 - 2019.06` **University of Macau**, PhD in Software Engineering.
+`2013.09 - 2019.08` **University of Macau**, PhD in Software Engineering.
 
 `2010.09 - 2013.06` **Guizhou University**, MSc in Computer Science.
 
-`2006.09 - 2010.07` **China University of Mining and Technology**, BS in Computer Science.
+`2006.09 - 2010.06` **China University of Mining and Technology**, BS in Computer Science.
 
 
 ## Employment
@@ -42,21 +42,21 @@ I just passed my Ph.D. defense and am looking for the possible positions. Drop m
 
 *Software Engineering*
 
-**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](http://rm2pt.mydreamy.net/data/ICSE'19.pdf). presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**).
+**Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](https://ieeexplore.ieee.org/document/8802733). presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**)
 
-**Yilong Yang**, Wei Ke and Xiaoshan Li. ["RM2PT: Requirements Validation through Automatic Prototyping"](http://rm2pt.mydreamy.net/data/RE'19.pdf).
+**Yilong Yang**, Wei Ke and Xiaoshan Li. ["RM2PT: Requirements Validation through Automatic Prototyping"](http://re19.ajou.ac.kr/pages/conference/accepted_papers).
 presented at the 27th IEEE International Requirements Engineering Conference (RE'19). Jeju Island, South Korea, September 2019. (**CCF B**)
 
-**Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](http://rm2pt.mydreamy.net/data/tr-ieee.pdf). IEEE Transactions on Reliability. (Accepted) (**JCR - Q1**).
+**Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](http://rm2pt.mydreamy.net/data/tr-ieee.pdf). IEEE Transactions on Reliability. (Accepted) (**JCR - Q1**)
 
-**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://conferences.computer.org/icws/2019/program/). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
+**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://conferences.computer.org/serviceswp/2019/#!/toc/1). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
 
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**).
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**)
 
 **Yilong Yang**, ["SSC-ASP: An Integrated Framework for Semantic Service Composition Using Answer Set Programming"](https://doi.org/10.4018/978-1-5225-7268-8.ch001). Innovative Solutions and Applications of Web Services Technology. ISBN: 9781522572688. (Book-Chapter)
 
 
-**Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761). IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**).
+**Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761). IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**)
 
 Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security Analysis for OpenFlow-Based Networks](https://doi.org/10.1109/ICECCS2018.2018.00032). 2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS'18), Melbourne, VIC, 2018, pp. 201-204. (**CCF C**)
 
