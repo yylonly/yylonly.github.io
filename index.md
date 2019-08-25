@@ -166,6 +166,7 @@ My personal [GitHub account](https://github.com/yylonly) hosts my open source pr
 
 ## Technical Certifications
 
+* [Cloud-Native Application Development with Java EE](https://www.udemy.com/certificate/UC-D45JLIK6/)
 * [The Complete Flutter Development Bootcamp with Dart (2019)](https://www.udemy.com/certificate/UC-2X2MAZSQ/)
 * [Master Microservices with Spring Boot and Spring Cloud (2019)](https://www.udemy.com/certificate/UC-91R69UB8/?utm_campaign=email&utm_source=sendgrid.com&utm_medium=email)
 * [IBM MicroServices (2019)](https://www.coursera.org/account/accomplishments/specialization/TBR4QTCPYZX9)
