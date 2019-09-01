@@ -85,6 +85,8 @@ Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. 
 
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://doi.org/10.1016/j.apsb.2018.09.010). Acta Pharmaceutica Sinica B, 9(1), pp. 177-185 (2019)  (**JCR - Q1**)
 
+Run Han, Hui Xiong, Zhuyifan Ye, **Yilong Yang**, and Defang Ouyang. [Predicting physical stability of solid dispersions by machine learning techniques](https://doi.org/10.1016/j.jconrel.2019.08.030). Journal of Controlled Release, 311-312, pp.16-25 (2019). (**JCR - Q1**)
+
 Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. [An Integrated Transfer Learning and Multitask Learning Approach for Pharmacokinetic Parameter Prediction](https://doi.org/10.1021/acs.molpharmaceut.8b00816). Molecular pharmaceutics, 16(2), pp.533-541 (2018). (**Co-First Author and JCR - Q1**)
 
 Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://doi.org/10.1016/j.ajps.2018.01.003). Asian Journal of Pharmaceutical Sciences, 13(4), pp.336-342 (2018). (**Co-First Author and JCR - Q1**)
