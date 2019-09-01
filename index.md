@@ -15,7 +15,7 @@ Ph.D in Software Engineering
 
 ## Currently
 
-I just passed my Ph.D. defense and am looking for the possible positions. Drop me an email if you are interested in my research.
+I just passed my Ph.D. defense and am looking for the research positions. Drop me an email if you are interested in my research.
 
 
 ## Education
@@ -49,7 +49,7 @@ presented at the 27th IEEE International Requirements Engineering Conference (RE
 
 **Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](http://rm2pt.mydreamy.net/data/tr-ieee.pdf). IEEE Transactions on Reliability. (Accepted) (**JCR - Q1**)
 
-**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://conferences.computer.org/serviceswp/2019/#!/toc/1). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
+**Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://doi.org/10.1109/ICWS.2019.00079). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
 
 **Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**)
 
@@ -110,11 +110,15 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 ## Research Services
 
-Sub-Reviewer for conferences:  TASE 2019, 2015, 2014. ICTAC 2017. ICFEM 2016. SEH 2019. ISSRE 2018, 2017. FSEN 2015. KSE 2015. FACS 2014.
+PC member: NASAC'19 (Blockchain Track)
 
-Sub-Reviewer for journals: IEEE Transactions on Reliability. Journal of Software: Practice and Experience. Frontier of Computer Science.
+Session Chair: APSCC'14.
 
-Session Chair: APSCC 2014.
+Reviewer for conferences:  TASE'19,'15,'14. ICTAC'17. ICFEM'16. SEH'19. ISSRE'18,'17. FSEN'15. KSE'15. FACS'14.
+
+Reviewer for journals: IEEE Transactions on Reliability. Journal of Software: Practice and Experience. Frontier of Computer Science.
+
+
 
 
 ## Engineering Projects
