@@ -47,7 +47,7 @@ I just passed my Ph.D. defense and am looking for the research positions. Drop m
 **Yilong Yang**, Wei Ke and Xiaoshan Li. ["RM2PT: Requirements Validation through Automatic Prototyping"](http://re19.ajou.ac.kr/pages/conference/accepted_papers).
 presented at the 27th IEEE International Requirements Engineering Conference (RE'19). Jeju Island, South Korea, September 2019. (**CCF B**)
 
-**Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](http://rm2pt.mydreamy.net/data/tr-ieee.pdf). IEEE Transactions on Reliability. (Accepted) (**JCR - Q1**)
+**Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](https://ieeexplore.ieee.org/document/8822502). IEEE Transactions on Reliability. (2019) (**JCR - Q1**)
 
 **Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://doi.org/10.1109/ICWS.2019.00079). presented at the 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**CCF B**).
 
