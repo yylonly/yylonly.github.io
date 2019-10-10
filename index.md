@@ -112,7 +112,7 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 ## Research Services
 
-PC member: NASAC'19 (Blockchain Track)
+PC member: ECAI'20, NASAC'19 (Blockchain Track)
 
 Session Chair: APSCC'14.
 
