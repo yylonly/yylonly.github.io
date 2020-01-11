@@ -15,15 +15,13 @@ Ph.D in Software Engineering
 
 ## Research Interesting
 
-* Requirements Analysis and Modeling
-
-* Requirements Validation and Evolution
-
-* Automatic Generation of Prototype (Enterprise Application / Cloud-native Application / DApp / AI-based Application)
+* Requirements Engineering
 
 * Intelligent Software Engineering (AI for SE / SE for AI)
 
-* Service Discovery, Composition, and Selection
+* Automatic Generation of Prototype (Enterprise Application / Cloud-native Application / DApp / AI-based Application)
+
+* Service Computing / MicroServices
 
 ## Education
 
