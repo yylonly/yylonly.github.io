@@ -13,10 +13,17 @@ Ph.D in Software Engineering
 </div>
 
 
-## Currently
+## Research Interesting
 
-I just passed my Ph.D. defense and am looking for the research positions. Drop me an email if you are interested in my research.
+* Requirements Analysis and Modeling
 
+* Requirements Validation and Evolution
+
+* Automatic Generation of Prototype (Enterprise Application / Cloud-native Application / DApp / AI-based Application)
+
+* Intelligent Software Engineering (AI for SE / SE for AI)
+
+* Service Discovery, Composition, and Selection
 
 ## Education
 
@@ -28,6 +35,8 @@ I just passed my Ph.D. defense and am looking for the research positions. Drop m
 
 
 ## Employment
+
+`2020 - 2023` **Guangxi Normal University - College of Computer Science and Information Technology**, Visiting Research Fellow, China.
 
 `2012 - 2013` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Fellow, Macau.
 
@@ -118,9 +127,7 @@ Session Chair: APSCC'14.
 
 Reviewer for conferences:  TASE'19,'15,'14. ICTAC'17. ICFEM'16. SEH'19. ISSRE'18,'17. FSEN'15. KSE'15. FACS'14.
 
-Reviewer for journals: IEEE Transactions on Reliability. Journal of Software: Practice and Experience. Frontier of Computer Science.
-
-
+Reviewer for journals: IEEE Transactions on Reliability. Journal of Software: Practice and Experience. Frontier of Computer Science. IEEE Access.
 
 
 ## Engineering Projects
@@ -198,8 +205,6 @@ My personal [GitHub account](https://github.com/yylonly) hosts my open source pr
 * TensorFlow / DeepLearning4j
 
 ## Awards
-
-
 
 `2016 - 2019` Research Assistantship  
 
