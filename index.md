@@ -13,7 +13,7 @@ Ph.D in Software Engineering
 </div>
 
 
-## Research Interesting
+## Research Interests
 
 * Requirements Engineering
 
