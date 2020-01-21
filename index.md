@@ -119,13 +119,13 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 ## Research Services
 
-PC member: IJCAI'20 ECAI'20, NASAC'19 (Blockchain Track)
+PC member: IJCAI'20 ECAI'20, and NASAC'19 (Blockchain Track)
 
-Session Chair: APSCC'14.
+Session Chair: APSCC'14
 
-Reviewer for conferences:  TASE'19,'15,'14. ICTAC'17. ICFEM'16. SEH'19. ISSRE'18,'17. FSEN'15. KSE'15. FACS'14.
+Sub-Reviewer for conferences: TASE'19, ISSRE'19, SEH'19, ICTAC'17, ICFEM'16, KSE'15, and TASE'14
 
-Reviewer for journals: IEEE Transactions on Reliability. Journal of Software: Practice and Experience. Frontier of Computer Science. IEEE Access. Applied Clinical Informatics.
+Reviewer for journals: Frontier of Computer Science, IEEE Access, Wireless Networks, Applied Clinical Informatics, and Chemometrics and Intelligent Laboratory Systems
 
 
 ## Engineering Projects
