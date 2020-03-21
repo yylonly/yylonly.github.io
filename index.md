@@ -49,6 +49,8 @@ Ph.D in Software Engineering
 
 *Software Engineering*
 
+(Tutorial) **Yilong Yang**, Xiaoshan Li, Zhi Li. ["Rapid Prototyping for Requirements Validation: A Best-Practice with RM2PT"](). to be presented at the 28th IEEE International Requirements Engineering Conference (RE'20). Zurich, Switzerland, August 2020. (**CCF B**)
+
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](https://doi.org/10.1109/ICSE-Companion.2019.00038). presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**CCF A**)
 
 **Yilong Yang**, Wei Ke and Xiaoshan Li. ["RM2PT: Requirements Validation through Automatic Prototyping"](https://doi.org/10.1109/RE.2019.00067).
