@@ -15,13 +15,11 @@ Ph.D in Software Engineering
 
 ## Research Interests
 
+* Automated Software Engineering
+
 * Requirements Engineering
 
-* Intelligent Software Engineering (AI for SE / SE for AI)
-
-* Automatic Generation of Prototype (Enterprise Application / Cloud-native Application / DApp / AI-based Application)
-
-* Service Computing / MicroServices
+* Service Computing
 
 ## Education
 
