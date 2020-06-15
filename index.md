@@ -32,8 +32,6 @@ Ph.D in Software Engineering
 
 ## Employment
 
-`2020 - 2023` **Guangxi Normal University - College of Computer Science and Information Technology**, Visiting Research Fellow, China.
-
 `2012 - 2013` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Fellow, Macau.
 
 `2008 - 2010` **Xuzhou Surpass Lab and Guizhou WolkTech Inc.** Lecturer for RedHat and Cisco Certification (RHCE, CCNA, and CCNP)
@@ -119,13 +117,13 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 ## Research Services
 
-PC member: IJCAI'20 ECAI'20, and NASAC'19 (Blockchain Track)
+PC members: IJCAI'20 ECAI'20, and NASAC'19 (Blockchain Track)
 
 Session Chair: APSCC'14
 
-Sub-Reviewer for conferences: TASE'19, ISSRE'19, SEH'19, ICTAC'17, ICFEM'16, KSE'15, and TASE'14
+Reviewer for conferences: TASE'20'19, ISSRE'19, SEH'19, ICTAC'17, ICFEM'16, KSE'15, and TASE'14
 
-Reviewer for journals: Frontier of Computer Science, IEEE Access, Wireless Networks, Applied Clinical Informatics, and Chemometrics and Intelligent Laboratory Systems
+Reviewer for journals: Frontier of Computer Science, Sensors, Wireless Networks,  Computer Networks, Applied Clinical Informatics, Chemometrics and Intelligent Laboratory Systems, Journal of Biomedical and Health Informatics.
 
 
 ## Engineering Projects
