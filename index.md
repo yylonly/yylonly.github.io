@@ -45,7 +45,7 @@ Ph.D in Software Engineering
 
 *Software Engineering*
 
-**Yilong Yang**, Xiaoshan Li, Zhi Li. ["Rapid Prototyping for Requirements Validation: A Best-Practice with RM2PT"](pdf/RE20.pdf). to be presented at the 28th IEEE International Requirements Engineering Conference (RE'20). Zurich, Switzerland, August 2020. (**Tutorials**)
+**Yilong Yang**, Xiaoshan Li, Zhi Li. ["Rapid Prototyping for Requirements Validation: A Best-Practice with RM2PT"](pdf/RE20.pdf). to be presented at the 28th IEEE International Requirements Engineering Conference (RE'20). Zurich, Switzerland, August 2020. (**RE'20 Tutorial**)
 
 **Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](https://doi.org/10.1109/TR.2019.2934348). IEEE Transactions on Reliability. 69(2), pp. 632-656, June 2020 (**JCR - Q1**)
 
@@ -65,7 +65,7 @@ presented at the 27th IEEE International Requirements Engineering Conference (RE
 
 Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security Analysis for OpenFlow-Based Networks](https://doi.org/10.1109/ICECCS2018.2018.00032). 2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS'18), Melbourne, VIC, 2018, pp. 201-204.
 
-**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**SCI Indexed**).
+**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**JCR - Q4**).
 
 **Yilong Yang**, Jing Yang. "Design and Implementation of a Multi-Area Distributed Crawler Based on Skipnet-YL Network," 2011 Third Pacific-Asia Conference on Circuits, Communications and System (PACCS'11), Wuhan, 2011, pp. 1-4.
 
