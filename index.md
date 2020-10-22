@@ -34,9 +34,6 @@ Ph.D in Software Engineering
 
 `2012 - 2013` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Fellow, Macau.
 
-`2008 - 2010` **Xuzhou Surpass Lab and Guizhou WolkTech Inc.** Lecturer for RedHat and Cisco Certification (RHCE, CCNA, and CCNP)
-
-
 ## Software Engineering Tools
 
 **RM2PT** - [A Tool for Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.com)
