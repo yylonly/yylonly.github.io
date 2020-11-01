@@ -2,15 +2,15 @@
 layout: cv
 title: Yilong Yang's CV
 ---
-# Yilong Yang (杨溢龙)
+# Yilong Yang - 杨溢龙
 
 Ph.D in Software Engineering
 
 <div id="webaddress">
 
-<i class="fa fa-user" aria-hidden="true"></i> <a href="http://rm2pt.yilong.io">RM2PT</a>
+<i class="fa fa-user" aria-hidden="true"></i> <a href="http://rm2pt.com">RM2PT</a>
 |
-<i class="fa fa-envelope"></i> <a href="mailto:yylonly@gmail.com">yylonly@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="mailto:yilongyang@buaa.edu.cn">yilongyang@buaa.edu.cn</a>
 </div>
 
 
@@ -32,7 +32,7 @@ Ph.D in Software Engineering
 
 ## Work Experience
 
-`2020.10 - Current` **Beihang University**, Assistant Professor, School of Software, Beijing, China.
+`2020.11 - Current` **Beihang University**, Assistant Professor, School of Software, Beijing, China.
 
 `2013.01 - 2013.06` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Research Assistant, Macau.
 
