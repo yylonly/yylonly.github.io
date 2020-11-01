@@ -4,7 +4,7 @@ title: Yilong Yang's CV
 ---
 # Yilong Yang - 杨溢龙
 
-Ph.D in Software Engineering
+Ph.D. in Software Engineering
 
 <div id="webaddress">
 
