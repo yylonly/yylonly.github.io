@@ -32,7 +32,7 @@ Ph.D. in Software Engineering
 
 ## Work Experience
 
-`2020.11 - Current` **Beihang University**, Assistant Professor, School of Software, Beijing, China.
+`2020.11 - Current` **Beihang University (BUAA)**, Assistant Professor, School of Software, Beijing, China.
 
 `2013.01 - 2013.06` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Research Assistant, Macau.
 
