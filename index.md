@@ -2,7 +2,8 @@
 layout: cv
 title: Yilong Yang's CV
 ---
-# Yilong Yang
+# Yilong Yang (杨溢龙)
+
 Ph.D in Software Engineering
 
 <div id="webaddress">
@@ -29,10 +30,11 @@ Ph.D in Software Engineering
 
 `2006.09 - 2010.06` **China University of Mining and Technology**, BS in Computer Science.
 
+## Work Experience
 
-## Employment
+`2020.10 - Current` **Beihang University**, Assistant Professor, School of Software, Beijing, China.
 
-`2012 - 2013` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Fellow, Macau.
+`2013.01 - 2013.06` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Research Assistant, Macau.
 
 ## Software Engineering Tools
 
@@ -122,39 +124,7 @@ Session Chair: APSCC'14
 
 Reviewer for conferences: TASE'20'19, ISSRE'19, SEH'19, ICTAC'17, ICFEM'16, KSE'15, and TASE'14
 
-Reviewer for journals: Frontier of Computer Science, Sensors, Wireless Networks, Computer Networks, Applied Clinical Informatics, Chemometrics and Intelligent Laboratory Systems, Journal of Biomedical and Health Informatics.
-
-
-## Engineering Projects
-
-*Multi-year Projects*
-
-`2016 - 2018` Pharmaceutical Formulation Prediction based on Deep Learning.
-
-`2014 - 2015` Traditional Chinese Prescription Process, Analysis and Prediction.
-
-`2012 - 2013` Test Case Generation from Formal Specification. (**PM**)
-
-`2010 - 2011` Mobile-based Data Security Partner. (**PM**)
-
-`2008 - 2009` Security Data Storage Partner.
-
-*One-year Projects*
-
-`2013` UNU-IIST System and Network Immigration.
-
-`2009` Enterprise Network Design and Implementation based on  Screened Subnet Architecture. (**PM**)
-
-`2009` Online Examination System. (**PM**)
-
-`2009` Full Text Search Engine. (**PM**)
-
-`2008` Traffic Light System. (**PM**)
-
-`2007` Loading Balance of CUMT Campus Network.
-
-`2007` PPPoE Client of CUMT Campus Network.
-
+Reviewer for journals:  Computer Networks, Wireless Networks, Journal of Biomedical and Health Informatics, Applied Clinical Informatics, Chemometrics and Intelligent Laboratory Systems, Frontier of Computer Science.
 
 ## Open Source Projects
 
@@ -198,17 +168,6 @@ My personal [GitHub account](https://github.com/yylonly) hosts my open source pr
 * Docker
 * Kubernetes
 * TensorFlow / DeepLearning4j
-
-## Awards
-
-`2016 - 2019` Research Assistantship  
-
-`2013 - 2016` Postgraduate Scholarship (PhD tuition fee exempt + living costs)
-
-`2010 - 2013` National Postgraduate Scholarship of China (Master)
-
-`2010 - 2013` Postgraduate Scholarship (Master tuition fee exempt + living costs)
-
 
 ## Placements
 
