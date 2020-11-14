@@ -4,13 +4,11 @@ title: Yilong Yang's CV
 ---
 # Yilong Yang - 杨溢龙
 
-Ph.D. in Software Engineering
-
 <div id="webaddress">
 
 <i class="fa fa-user" aria-hidden="true"></i> <a href="http://rm2pt.com">RM2PT</a>
 |
-<i class="fa fa-envelope"></i> <a href="mailto:yylonly@gmail.com">yilongyang@buaa.edu.cn</a>
+<i class="fa fa-envelope"></i> <a href="mailto:yilongyang@buaa.edu.cn">yilongyang@buaa.edu.cn</a>
 </div>
 
 
