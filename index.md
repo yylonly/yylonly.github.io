@@ -10,7 +10,7 @@ Ph.D. in Software Engineering
 
 <i class="fa fa-user" aria-hidden="true"></i> <a href="http://rm2pt.com">RM2PT</a>
 |
-<i class="fa fa-envelope"></i> <a href="mailto:yylonly@gmail.com">yylonly@gmail.com</a>
+<i class="fa fa-envelope"></i> <a href="mailto:yylonly@gmail.com">yilongyang@buaa.edu.cn</a>
 </div>
 
 
@@ -24,7 +24,7 @@ Ph.D. in Software Engineering
 
 ## Education
 
-`2013.09 - 2019.08` **University of Macau**, PhD in Software Engineering.
+`2013.09 - 2019.07` **University of Macau**, PhD in Software Engineering.
 
 `2010.09 - 2013.06` **Guizhou University**, MSc in Computer Science.
 
