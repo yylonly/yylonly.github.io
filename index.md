@@ -32,7 +32,7 @@ title: Yilong Yang's CV
 
 `2020.11 - Current` **Beihang University (BUAA)**, Assistant Professor, School of Software, Beijing, China.
 
-`2013.01 - 2013.06` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Research Assistant, Macau.
+`2013.01 - 2013.06` **United Nations University - International Institute for Software Technology (UNU-IIST)**, Fellow, Macau.
 
 ## Software Engineering Tools
 
@@ -58,7 +58,6 @@ presented at the 27th IEEE International Requirements Engineering Conference (RE
 **Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**)
 
 **Yilong Yang**, ["SSC-ASP: An Integrated Framework for Semantic Service Composition Using Answer Set Programming"](https://doi.org/10.4018/978-1-5225-7268-8.ch001). Innovative Solutions and Applications of Web Services Technology. ISBN: 9781522572688. (Book-Chapter)
-
 
 **Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761). IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**)
 
