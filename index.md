@@ -42,7 +42,7 @@ title: Yilong Yang's CV
 
 *Software Engineering*
 
-**Yilong Yang**, Nafees Qamar, Peng Liu, Katarina Grolinger, Weiru Wang, Zhi Li, Zhifang Liao. ["ServeNet: A Deep Neural Network for Web Services Classification](http://arxiv.org/abs/1806.05437). to be presented at IEEE 12th International Conferences on Web Services (ICWS'20), Beijing, China, Oct.2020. (**Regular Paper**).
+**Yilong Yang**, Nafees Qamar, Peng Liu, Katarina Grolinger, Weiru Wang, Zhi Li, Zhifang Liao. ["ServeNet: A Deep Neural Network for Web Services Classification](https://doi.org/10.1109/ICWS49710.2020.00029). to be presented at IEEE 12th International Conferences on Web Services (ICWS'20), Beijing, China, Oct. 2020. (**Regular Paper**).
 
 **Yilong Yang**, Xiaoshan Li, Zhi Li. ["Rapid Prototyping for Requirements Validation: A Best-Practice with RM2PT"](pdf/RE20.pdf). to be presented at the 28th IEEE International Requirements Engineering Conference (RE'20). Zurich, Switzerland, August 2020. (**RE'20 Tutorial**)
 
