@@ -10,7 +10,7 @@ title: Yilong Yang's CV
 |
 <i class="fa fa-envelope"></i> <a href="mailto:yilongyang@buaa.edu.cn">yilongyang@buaa.edu.cn</a>
 |
-<i class="fa fa-envelope"></i> <a href="http://soft.buaa.edu.cn/info/1124/6251.htm">BUAA Homepage (Chinese)</a>
+<i class="bi bi-house-fill"></i> <a href="http://soft.buaa.edu.cn/info/1124/6251.htm">BUAA Homepage (Chinese)</a>
 </div>
 
 
