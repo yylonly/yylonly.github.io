@@ -42,18 +42,22 @@ title: Yilong Yang's CV
 
 ## Publications
 
-*Software Engineering*
-
-**Yilong Yang**, Nafees Qamar, Peng Liu, Katarina Grolinger, Weiru Wang, Zhi Li, Zhifang Liao. ["ServeNet: A Deep Neural Network for Web Services Classification](https://doi.org/10.1109/ICWS49710.2020.00029). to be presented at IEEE 12th International Conferences on Web Services (ICWS'20), Beijing, China, Oct. 2020. (**Regular Paper**).
-
-**Yilong Yang**, Xiaoshan Li, Zhi Li. ["Rapid Prototyping for Requirements Validation: A Best-Practice with RM2PT"](pdf/RE20.pdf). to be presented at the 28th IEEE International Requirements Engineering Conference (RE'20). Zurich, Switzerland, August 2020. (**RE'20 Tutorial**)
+*Software Engineering: Requirements and Automated Generation*
 
 **Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](https://doi.org/10.1109/TR.2019.2934348). IEEE Transactions on Reliability. 69(2), pp. 632-656, June 2020 (**JCR - Q1**)
+
+**Yilong Yang**, Xiaoshan Li, Zhi Li. ["Rapid Prototyping for Requirements Validation: A Best-Practice with RM2PT"](pdf/RE20.pdf). presented at the 28th IEEE International Requirements Engineering Conference (RE'20). Zurich, Switzerland, August 2020. (**RE'20 Tutorial**)
 
 **Yilong Yang**, Xiaoshan Li, Zhiming Liu, Wei Ke. ["RM2PT: A Tool for Automated Prototype Generation from Requirements Model"](https://doi.org/10.1109/ICSE-Companion.2019.00038). presented at the 41th International Conferences on Software Engineering (ICSE'19), Montreal, QC, Canada, May 2019. (**Demonstration Track**)
 
 **Yilong Yang**, Wei Ke and Xiaoshan Li. ["RM2PT: Requirements Validation through Automatic Prototyping"](https://doi.org/10.1109/RE.2019.00067).
 presented at the 27th IEEE International Requirements Engineering Conference (RE'19). Jeju Island, South Korea, September 2019. (**Demonstration Track**)
+
+*Software Engineering: Service Computing*
+
+Bing Li, Zhi Li, **Yilong Yang***, ["Residual Attention Graph Convolutional Network for Web Services Classification"](https://doi.org/10.1016/j.neucom.2021.01.089). Neurocomputing. 440, pp. 45-57 (2021) (**JCR - Q1**)
+
+**Yilong Yang**, Nafees Qamar, Peng Liu, Katarina Grolinger, Weiru Wang, Zhi Li, Zhifang Liao. ["ServeNet: A Deep Neural Network for Web Services Classification](https://doi.org/10.1109/ICWS49710.2020.00029). presented at IEEE 12th International Conferences on Web Services (ICWS'20), Beijing, China, Oct. 2020. (**Regular Paper**).
 
 **Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://doi.org/10.1109/ICWS.2019.00079). presented at IEEE 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**Work-in-progress Paper**).
 
@@ -61,17 +65,15 @@ presented at the 27th IEEE International Requirements Engineering Conference (RE
 
 **Yilong Yang**, ["SSC-ASP: An Integrated Framework for Semantic Service Composition Using Answer Set Programming"](https://doi.org/10.4018/978-1-5225-7268-8.ch001). Innovative Solutions and Applications of Web Services Technology. ISBN: 9781522572688. (Book-Chapter)
 
+**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**JCR - Q4**).
+
+*Software Engineering: Formal Methods*
+
 **Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761). IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**)
 
 Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security Analysis for OpenFlow-Based Networks](https://doi.org/10.1109/ICECCS2018.2018.00032). 2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS'18), Melbourne, VIC, 2018, pp. 201-204.
 
-**Yilong Yang**, Jing Yang, Xiaoshan Li, Weiru Wang. ["An Integrated Framework for Semantic Service Composition using Answer Set Programming"](https://doi.org/10.4018/IJWSR.2014100104). International Journal of Web Services Research. 11(4), pp. 47-61 (2014) (**JCR - Q4**).
-
-**Yilong Yang**, Jing Yang. "Design and Implementation of a Multi-Area Distributed Crawler Based on Skipnet-YL Network," 2011 Third Pacific-Asia Conference on Circuits, Communications and System (PACCS'11), Wuhan, 2011, pp. 1-4.
-
-
-<br />
-*Software Engineering in Health Informatics*
+*SE Applications: Health Informatics*
 
 **Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. ["MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers"](https://doi.org/10.1109/ACCESS.2018.2865535). IEEE Access, 6, pp. 46949-46961 (2018). (**JCR - Q1**).
 
@@ -83,10 +85,7 @@ Nafees Qamar, **Yilong Yang**, Andras Nadas, Zhiming Liu. Querying Medical Datas
 
 Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. In Software Engineering in Health Care (SEHC'14), pp. 222-238. Springer, Cham, 2014.
 
-
-
-<br />
- *Software Engineering in Machine Learning*
+*AI Applications: Pharmaceutica*
 
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://doi.org/10.1016/j.apsb.2018.09.010). Acta Pharmaceutica Sinica B, 9(1), pp. 177-185 (2019)  (**JCR - Q1**)
 
@@ -100,7 +99,12 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 
 
+
+
+
 ## Research Projects
+
+`2021.03` - `2022.03` Automatic Prototyping and Verification of Industrial Requirements (工业软件需求原型化与协同验证) (**PI**)
 
 `2016 - 2019`             Model-Driven Software Development from Requirement Description to Code Generation. Macau Science and Technology Development Fund. FDCT 103/2015/A3. (**Main Contributor**)
 
@@ -117,13 +121,14 @@ Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image cla
 
 ## Research Services
 
-PC members: IJCAI'20, ECAI'20, and NASAC'19 (Blockchain Track)
+PC Members: IJCAI'20, ECAI'20, and NASAC'19 (Blockchain Track)
 
 Session Chair: APSCC'14
 
-Reviewer for conferences: TASE'20'19, ISSRE'19, SEH'19, ICTAC'17, ICFEM'16, KSE'15, and TASE'14
+Reviewer for conferences: FSEN'21, SETTA'20, TASE'20'19, ISSRE'19, SEH'20'19, ICTAC'17, ICFEM'16, KSE'15, and TASE'14
 
-Reviewer for journals:  Computer Networks, Wireless Networks, Journal of Biomedical and Health Informatics, Applied Clinical Informatics, Chemometrics and Intelligent Laboratory Systems, Frontier of Computer Science.
+Reviewer for journals:  IEEE Transactions on Software Engineering,  IEEE Internet of Things Journal, IET Intelligent Transport Systems, Computer Networks, Wireless Networks, Journal of Biomedical and Health Informatics, Applied Clinical Informatics, Chemometrics and Intelligent Laboratory Systems, Frontier of Computer Science.
+
 
 ## Open Source Projects
 
