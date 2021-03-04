@@ -62,7 +62,6 @@ Bing Li, Zhi Li, **Yilong Yang***, ["Residual Attention Graph Convolutional Netw
 
 **Yilong Yang**, Wei Ke, Weiru Wang, Yongxin Zhao ["Deep Learning for Web Services Classification"](https://doi.org/10.1109/ICWS.2019.00079). presented at IEEE 11th International Conferences on Web Services (ICWS'19), Milan, Italy, July 2019. (**Work-in-progress Paper**).
 
-**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**)
 
 **Yilong Yang**, ["SSC-ASP: An Integrated Framework for Semantic Service Composition Using Answer Set Programming"](https://doi.org/10.4018/978-1-5225-7268-8.ch001). Innovative Solutions and Applications of Web Services Technology. ISBN: 9781522572688. (Book-Chapter)
 
@@ -71,25 +70,14 @@ Bing Li, Zhi Li, **Yilong Yang***, ["Residual Attention Graph Convolutional Netw
 <br />
 *Software Engineering: Formal Methods*
 
+**Yilong Yang**, Wei Ke, Jing Yang, Xiaoshan Li. ["Integrating UML With Service Refinement for Requirements Modeling and Analysis"](https://doi.org/10.1109/ACCESS.2019.2892082). IEEE Access, 7, pp. 11599-11612 (2019). (**JCR - Q1**)
+
 **Yilong Yang**, Quan Zu, Xiaoshan Li. ["Real-Time System Modeling and Verification Through Labeled Transition System Analyzer"](https://doi.org/10.1109/ACCESS.2019.2899761). IEEE Access, 7, pp. 26314-26323 (2019). (**JCR - Q1**)
 
 Yongxin Zhao, Xi Wu, Jing Liu, **Yilong Yang**. "[Formal Modeling and Security Analysis for OpenFlow-Based Networks](https://doi.org/10.1109/ICECCS2018.2018.00032). 2018 23rd International Conference on Engineering of Complex Computer Systems (ICECCS'18), Melbourne, VIC, 2018, pp. 201-204.
 
 <br />
-*SE Applications: Health Informatics*
-
-**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. ["MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers"](https://doi.org/10.1109/ACCESS.2018.2865535). IEEE Access, 6, pp. 46949-46961 (2018). (**JCR - Q1**).
-
-**Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://doi.org/10.7150/ijbs.24617). International Journal of Biological Sciences, 14(8), pp. 907-919 (2018). (**JCR - Q1**)
-
-Bingqing Shen, Jingzhi Guo, and **Yilong Yang**. ["MedChain: Efficient Healthcare Data Sharing via Blockchain"](https://doi.org/10.3390/app9061207). Applied Sciences, 9(6), p.1207 (2019). (**JCR - Q3**)
-
-Nafees Qamar, **Yilong Yang**, Andras Nadas, Zhiming Liu. Querying Medical Datasets While Preserving Privacy. Procedia Computer Science, 98, pp.324-331 (2016).
-
-Nafees Qamar, **Yilong Yang**, András Nádas, Zhiming Liu, Janos Sztipanovits. A Tool for Analyzing Clinical Datasets as Blackbox. In Software Engineering in Health Care (SEHC'14), pp. 222-238. Springer, Cham, 2014.
-
-<br />
-*AI Applications: Pharmaceutica*
+*Interdisciplinary Applications: Health and Pharmaceutics*
 
 **Yilong Yang**, Zhuyifan Ye, Yan Su, Qianqian Zhao, Xiaoshan Li, Defang Ouyang. [Deep Learning for in-vitro Prediction of Pharmaceutical Formulations](https://doi.org/10.1016/j.apsb.2018.09.010). Acta Pharmaceutica Sinica B, 9(1), pp. 177-185 (2019)  (**JCR - Q1**)
 
@@ -99,9 +87,11 @@ Zhuyifan Ye, **Yilong Yang**, Defang Ouyang. [An Integrated Transfer Learning an
 
 Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disintegrating tablet formulations by neural network techniques](https://doi.org/10.1016/j.ajps.2018.01.003). Asian Journal of Pharmaceutical Sciences, 13(4), pp.336-342 (2018). (**Co-First Author and JCR - Q1**)
 
-Weiru Wang, Chi-Man Vong, **Yilong Yang**, and Pak-Kin Wong. Encrypted image classification based on multilayer extreme learning machine. Multidimensional Systems and Signal Processing, 28(3), pp.851-865 (2017). (**JCR - Q2**)
+**Yilong Yang**, Zu Quan, Peng Liu, Defang Ouyang, Xiaoshan Li. [MicroShare: Privacy-Preserved Medical Resource Sharing through MicroService Architecture](https://doi.org/10.7150/ijbs.24617). International Journal of Biological Sciences, 14(8), pp. 907-919 (2018). (**JCR - Q1**)
 
+**Yilong Yang**, Xiaoshan Li, Nafees Qamar, Peng Liu, Wei Ke, Bingqing Shen, Zhiming Liu. ["MedShare: A Novel Hybrid Cloud for Medical Resource Sharing among Autonomous Healthcare Providers"](https://doi.org/10.1109/ACCESS.2018.2865535). IEEE Access, 6, pp. 46949-46961 (2018). (**JCR - Q1**).
 
+Bingqing Shen, Jingzhi Guo, and **Yilong Yang**. ["MedChain: Efficient Healthcare Data Sharing via Blockchain"](https://doi.org/10.3390/app9061207). Applied Sciences, 9(6), p.1207 (2019). (**JCR - Q3**)
 
 
 
