@@ -93,7 +93,7 @@ Run Han, **Yilong Yang**, Xiaoshan Li, and Defang Ouyang. [Predicting oral disin
 
 Bingqing Shen, Jingzhi Guo, and **Yilong Yang**. ["MedChain: Efficient Healthcare Data Sharing via Blockchain"](https://doi.org/10.3390/app9061207). Applied Sciences, 9(6), p.1207 (2019). (**JCR - Q3**)
 
-
+*Noted that:* Completed publication list in <i class="ai ai-google-scholar"></i> <a href="https://scholar.google.com/citations?user=i-kYDpAAAAAJ&hl=en">Google scholar</a> <br>
 
 
 ## Research Projects
