@@ -42,6 +42,8 @@ title: Yilong Yang's CV
 
 ## Publications
 
+Note that **ICWS** is the top conferences of Service Computing, **RE** is the top conference of Requirements Engineering, and **ICSE** is the top conference of Software Engineering.
+
 *Software Engineering: Requirements and Code Generation*
 
 **Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](https://doi.org/10.1109/TR.2019.2934348). IEEE Transactions on Reliability. 69(2), pp. 632-656, June 2020 (**JCR - Q1**)
