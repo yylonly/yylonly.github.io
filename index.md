@@ -46,6 +46,12 @@ Note that **ICWS** is the top conferences of Service Computing, **RE** is the to
 
 *Software Engineering: Requirements and Code Generation*
 
+Bing Li, Zhi Li, **Yilong Yang**. “NFRNet: A Deep Neural Network for Automatic Classification of Non-Functional Requirements.” to be presented at IEEE International Requirements Engineering Conference (RE’21), Sep. 2021. (**Demonstration Track**)
+
+Shangfeng Wei, Zhi Li, **Yilong Yang**, Hongbin Xiao. "Zoom4PF: A Tool for Refining Static and Dynamic Domain Descriptions in Problem Frames".  to be presented at IEEE International Requirement Engineering Conference (RE'21), Sep. 2021 (**Demonstration Track**)
+
+Hongbin Xiao, Zhi Li, **Yilong Yang**, Jie Deng, and Shangfeng Wei. “An Extended Meta-Model of Problem Frames for Enriching Environmental Descriptions”. to be presented at IEEE International Workshop on Environment-Driven Requirements Engineering (EnviRE), Sep. 2021.
+
 **Yilong Yang**, Xiaoshan Li, Wei Ke, Zhiming Liu. ["Automated Prototype Generation from Formal Requirements Model"](https://doi.org/10.1109/TR.2019.2934348). IEEE Transactions on Reliability. 69(2), pp. 632-656, June 2020 (**JCR - Q1**)
 
 **Yilong Yang**, Xiaoshan Li, Zhi Li. ["Rapid Prototyping for Requirements Validation: A Best-Practice with RM2PT"](pdf/RE20.pdf). presented at the 28th IEEE International Requirements Engineering Conference (RE'20). Zurich, Switzerland, August 2020. (**RE'20 Tutorial**)
@@ -58,12 +64,10 @@ presented at the 27th IEEE International Requirements Engineering Conference (RE
 <br />
 *Software Engineering: Service Computing*
 
-
 Jing Zhang, Yang Chen, **Yilong Yang***, Changran Lei, Deqiang Wang. "ServeNet-LT: A Normalized Multi-head Deep Neural Network for Long-tailed Web Services Classification." to be presented at IEEE International Conferences on Web Services (ICWS’21), Sep. 2021. (**Regular Paper**).
 
 **Yilong Yang**, Zhaotian Li, Jing Zhang and Yang Chen. "Transfer Learning for Web Services Classification
 ." to be presented at IEEE International Conferences on Web Services (ICWS’21), Sep. 2021. (**Short Paper**).
-
 
 Bing Li, Zhi Li, **Yilong Yang***, ["Residual Attention Graph Convolutional Network for Web Services Classification"](https://doi.org/10.1016/j.neucom.2021.01.089). Neurocomputing. 440, pp. 45-57 (2021) (**JCR - Q1**)
 
