@@ -46,6 +46,8 @@ Note that **ICWS** is the top conferences of Service Computing, **RE** is the to
 
 *Software Engineering: Requirements and Code Generation*
 
+**Yilong Yang**, Younggi Bok, Zhuoxi Yang, Eric Sheriff and Tong Li. "Goal2UCM: Automatic Generation of Use Case Model from iStar Model". to be presented at The 14th International iStar Workshop as part of the 40th International Conference on Conceptual Modeling, Oct. 2021.
+
 Bing Li, Zhi Li, **Yilong Yang**. “NFRNet: A Deep Neural Network for Automatic Classification of Non-Functional Requirements.” to be presented at IEEE International Requirements Engineering Conference (RE’21), Sep. 2021. (**Demonstration Track**)
 
 Shangfeng Wei, Zhi Li, **Yilong Yang**, Hongbin Xiao. "Zoom4PF: A Tool for Refining Static and Dynamic Domain Descriptions in Problem Frames".  to be presented at IEEE International Requirement Engineering Conference (RE'21), Sep. 2021 (**Demonstration Track**)
