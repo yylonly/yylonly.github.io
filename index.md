@@ -66,6 +66,9 @@ presented at the 27th IEEE International Requirements Engineering Conference (RE
 <br />
 *Software Engineering: Service Computing*
 
+
+Jing Zhang, Changran Lei , **Yilong Yang*** , Borui Wang, and Yang Chen. “MMA-Net: A MultiModal-Attention-based Deep Neural Network for Web Services Classification.” to be presented at International Conference Service-Oriented Computing (ICSOC’21). (**Short Paper**).
+
 Jing Zhang, Yang Chen, **Yilong Yang***, Changran Lei, Deqiang Wang. "ServeNet-LT: A Normalized Multi-head Deep Neural Network for Long-tailed Web Services Classification." to be presented at IEEE International Conferences on Web Services (ICWS’21), Sep. 2021. (**Regular Paper**).
 
 **Yilong Yang**, Zhaotian Li, Jing Zhang and Yang Chen. "Transfer Learning for Web Services Classification
@@ -126,8 +129,6 @@ Bingqing Shen, Jingzhi Guo, and **Yilong Yang**. ["MedChain: Efficient Healthcar
 `2011 - 2012`             Distributed Architecture of Crawler based on P2P network. Natural Science Foundation of GuiYang. No. zhukehetong2011201da-4-2. (**PI**)
 
 
-
-
 ## Research Services
 
 PC Members: IJCAI'20, ECAI'20, and NASAC'19 (Blockchain Track)
@@ -138,6 +139,13 @@ Reviewer for conferences: FSEN'21, SETTA'20, TASE'20'19, ISSRE'19, SEH'20'19, IC
 
 Reviewer for journals:  IEEE Transactions on Software Engineering,  IEEE Internet of Things Journal, IET Intelligent Transport Systems, Computer Networks, Wireless Networks, Journal of Biomedical and Health Informatics, Applied Clinical Informatics, Chemometrics and Intelligent Laboratory Systems, Frontier of Computer Science.
 
+
+## Patent
+
+* 2021108906230 一种基于需求原型化的软件开发方法
+* 2021108906245 一种从目标模型到 UML 需求模型转化方法
+* 2021108912246 一种基于迁移学习的 Web 服务分类方法
+* 2021108912316 一种基于需求模型的企业级系统生成方法
 
 ## Open Source Projects
 
