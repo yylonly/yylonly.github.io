@@ -11,6 +11,8 @@ title: Yilong Yang's CV
 <i class="fa fa-home-lg"></i> <a href="http://soft.buaa.edu.cn/info/1124/6251.htm">BUAA Homepage (Chinese)</a>
 |
 <i class="fa fa-envelope"></i> <a href="mailto:yilongyang@buaa.edu.cn">yilongyang@buaa.edu.cn</a>
+|
+<i class="fa fa-envelope"></i> <a href="pdf/basic.pptx">中文简介</a>
 </div>
 
 
@@ -40,6 +42,8 @@ title: Yilong Yang's CV
 
 **RM2PT** - [A Tool for Automated Prototype Generation from Lightweight Formal Requirements Model](http://rm2pt.com)
 
+
+
 ## Publications
 
 Note that **ICWS** is the top conferences of Service Computing, **RE** is the top conference of Requirements Engineering, and **ICSE** is the top conference of Software Engineering.
@@ -48,7 +52,6 @@ Note that **ICWS** is the top conferences of Service Computing, **RE** is the to
 
 
 Tianshu Bao, Jing Yang, Yongfeng Yin, **Yilong Yang***. "RM2Doc: A Tool for Automatic Generation of Requirements Documents from Requirements Models". to presented at the 44th International Conferences on Software Engineering (ICSE'22), Pittsburgh, PA, USA, May 2022. (**Demonstration Track**)
-
 
 **Yilong Yang**, Younggi Bok, Zhuoxi Yang, Eric Sheriff and Tong Li. ["Goal2UCM: Automatic Generation of Use Case Model from iStar Model"](http://ceur-ws.org/Vol-2983/iStar21_paper_4.pdf). presented at The 14th International iStar Workshop as part of the 40th International Conference on Conceptual Modeling, St. John's, NL, Canada, October 2021.
 
