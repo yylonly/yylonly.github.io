@@ -8,11 +8,9 @@ title: Yilong Yang's CV
 
 <i class="fa fa-user" aria-hidden="true"></i> <a href="http://rm2pt.com">RM2PT</a>
 |
-<i class="fa fa-home-lg"></i> <a href="http://soft.buaa.edu.cn/info/1124/6251.htm">BUAA Homepage (Chinese)</a>
+<i class="fa fa-home-lg"></i> <a href="http://soft.buaa.edu.cn/teachershouw.jsp?urltype=news.NewsContentUrl&wbtreeid=1263&wbnewsid=9653">BUAA Homepage (Chinese)</a>
 |
 <i class="fa fa-envelope"></i> <a href="mailto:yilongyang@buaa.edu.cn">yilongyang@buaa.edu.cn</a>
-|
-<i class="fa fa-envelope"></i> <a href="pdf/basic.pptx">中文简介</a>
 </div>
 
 
